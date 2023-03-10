@@ -2773,7 +2773,8 @@ footer:after {
 .sign-up-form-area input,
 .sign-up-form-area input:focus,
 .sign-up-form-area .fullname input,
-.sign-up-form-area.contact-form .email input {
+.sign-up-form-area.contact-form .email input,
+.sign-up-form-area.contact-form textarea {
   border-radius: 0;
   -webkit-appearance: none;
 }
